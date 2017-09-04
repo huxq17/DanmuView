@@ -1,5 +1,5 @@
 # DanmuView
-[opengl-tutorial](https://www.khronos.org/opengl/wiki/ "opengl-tutorial")</br>
+[opengl-wiki](https://www.khronos.org/opengl/wiki/ "opengl-wiki")</br>
 [opengl-tutorial](http://www.opengl-tutorial.org/cn/ "opengl-tutorial")</br>
 
 [Fast Pixel Transfers with Pixel Buffer Objects](http://roxlu.com/2014/048/fast-pixel-transfers-with-pixel-buffer-objects "Fast Pixel Transfers with Pixel Buffer Objects")</br>
